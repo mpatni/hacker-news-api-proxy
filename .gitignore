@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# User-specific files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode settings
+.vscode/
+
+# IDE-specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dependency directories
+pids
+logs
+results

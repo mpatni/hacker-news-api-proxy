@@ -1,0 +1,25 @@
+{
+    "name": "hacker-news-api-proxy",
+    "version": "1.0.0",
+    "description": "A Node.js application to proxy requests to the Hacker News API",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "axios": "^0.24.0",
+      "winston": "^3.3.3",
+      "morgan": "^1.10.0"
+    },
+    "engines": {
+      "node": ">=10.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mpatni/hacker-news-api-proxy.git"
+    },
+    "keywords": ["hacker-news", "api", "proxy", "nodejs", "nginx"],
+    "author": "Mitesh Patni"
+  }
+  
